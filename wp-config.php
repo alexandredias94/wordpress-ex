@@ -131,4 +131,4 @@ require_once(ABSPATH . 'wp-settings.php');
 
 /** Set wordpress to save everything on disk */
 define('FS_METHOD', getenv("FS_METHOD"));
-define('WP_MEMORY_LIMIT', '128M');
+define(‘WP_MEMORY_LIMIT’, ’128M’);
